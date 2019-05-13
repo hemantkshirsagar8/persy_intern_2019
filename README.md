@@ -78,3 +78,6 @@ Online ML practice environment:
 4. [Kaggle Introduction video](https://www.youtube.com/watch?v=FloMHMOU5Bs)
 5. [Hackerrank](https://www.hackerrank.com/)
 6. [Pythonanywhere](https://www.pythonanywhere.com/)
+
+Online courses:
+1. [Machine Learning A-Z: Handson using Python and R](https://www.udemy.com/share/100034B0sYd19VRXo=/)
