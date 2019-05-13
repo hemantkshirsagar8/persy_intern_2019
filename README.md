@@ -1,4 +1,4 @@
-# Persistent systems intern program - 2019
+# Persistent Systems internship program - 2019
 -----
 
 
