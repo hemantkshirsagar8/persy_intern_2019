@@ -1,7 +1,6 @@
 # Persistent systems intern program - 2019
 -----
-Common repository for Persistent Systems internship mentor program 2019.
------
+
 
 ## ML hints for your ideas and motivation:
 
