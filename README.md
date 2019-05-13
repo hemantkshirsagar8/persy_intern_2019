@@ -10,6 +10,7 @@
 
 
 [_These are only to get motivated and come up with your own related ideas._]
+
 3. YOLO [_Search online about it's v3 version_]
 
     [Demo video](https://www.youtube.com/watch?v=BNHJRRUKMa4)
