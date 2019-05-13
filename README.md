@@ -2,7 +2,7 @@
 -----
 
 
-## ML hints for your ideas and motivation:
+_ML hints for your ideas and motivation:_
 
 ## A. Object detection:
 1. [Creating TFRecords - TensorFlow Object Detection API Tutorial 4-6](https://www.youtube.com/watch?v=kq2Gjv_pPe8)
