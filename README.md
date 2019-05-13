@@ -4,25 +4,24 @@
 
 ## ML hints for your ideas and motivation:
 
-TensorFlow custom object detection - references:
+## A. Object detection - references:
 1. [Creating TFRecords - TensorFlow Object Detection API Tutorial 4-6](https://www.youtube.com/watch?v=kq2Gjv_pPe8)
 2. [How To Train an Object Detection Classifier Using TensorFlow 1.5 (GPU) on Windows 10](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
 
-----
 
 [_These are only to get motivated and come up with your own related ideas._]
-1. YOLO [_Search online about it's v3 version_]
+3. YOLO [_Search online about it's v3 version_]
 
     [Demo video](https://www.youtube.com/watch?v=BNHJRRUKMa4)
     
     [Example video by Siraj](https://www.youtube.com/watch?v=4eIBisqx9_g)
-2. Deep learning Image Classification
+4. Deep learning Image Classification
 
     [Example Video](https://www.youtube.com/watch?v=cAICT4Al5Ow)
     
     [Example code](https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8)
     
-3. ML or OpenCV based traffic related operation
+5. ML or OpenCV based traffic related operation
 
     [Traffic counting 1](https://www.youtube.com/watch?v=z1Cvn3_4yGo)
     
@@ -30,18 +29,23 @@ TensorFlow custom object detection - references:
     
     [ML OpenCv lane and vehicle detection](https://www.youtube.com/watch?v=pQuUW3Jp8ic)
     
-4. ML Natural Language Processing using spaCy
+6. ML Natural Language Processing using spaCy
 
     [Website](https://spacy.io/usage/linguistic-features)
-5. OpenCv gesture recognition
+7. OpenCv gesture recognition
  
     [Example](https://www.youtube.com/watch?v=v-XcmsYlzjA)
 
-Bonus Hint: [Playing Card detection using YOLO](https://www.youtube.com/watch?v=pnntrewH0xg)
+8. [Playing Card detection using YOLO](https://www.youtube.com/watch?v=pnntrewH0xg)
+
+## B. Natural Language Processing:
+1. [spaCy](https://spacy.io)
+2. [BERT](https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b)
+3. [BERT Illustrated](https://jalammar.github.io/illustrated-bert/)
 
 ----
 
-_Enough motivation, lets learn to implement it._
+## _Enough motivation, lets learn to implement it._
 
 Pre-requisite:
 1. Python
