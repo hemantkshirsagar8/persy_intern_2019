@@ -4,7 +4,7 @@
 
 ## ML hints for your ideas and motivation:
 
-## A. Object detection - references:
+## A. Object detection:
 1. [Creating TFRecords - TensorFlow Object Detection API Tutorial 4-6](https://www.youtube.com/watch?v=kq2Gjv_pPe8)
 2. [How To Train an Object Detection Classifier Using TensorFlow 1.5 (GPU) on Windows 10](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
 
