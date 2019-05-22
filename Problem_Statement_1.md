@@ -27,7 +27,9 @@ _SENTENCE|ENTITYNAME|ENTITYTYPE|CONFIDENCE_
 Example:
 
 SENTENCE                            |ENTITYNAME       |ENTITYTYPE|CONFIDENCE
+
 FONTERRA LIMITED is from Australia  |FONTERRA LIMITED |ORG       |0.93
+
 FONTERRA LIMITED is from Australia  |AUSTRALIA        |LOC       |0.95
 
 
