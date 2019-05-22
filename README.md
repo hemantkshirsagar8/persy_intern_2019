@@ -1,6 +1,36 @@
 # Persistent Systems internship program - 2019
 -----
 
+## Problem Statement:
+1. Natural Language Processing for Named Entity Recognition (NLP for NER):
+1.1. Idetitifying recognising named entity from raw sentence or text is complex NLP task in machine learning and text engineering. It requires cleaning, data pre-processing, feature engineering, CNN and Kmeans for structing unstructured raw data. 
+
+Identify and predict entities like ORG[Organisation names], LOC[Locations], PER[Person name] and IFSC code[Optional] from given raw data. Most of the companies are working on similar task for text engineering and NER for complex use cases. This will give you hands-on experience on NLP and text engineering:
+
+Techinolgies:
+1. Can use [spaCy](https://spacy.io) or [BERT](https://github.com/google-research/bert).
+2. [spaCy](https://spacy.io) is recommended as it has good accuracy and proper documentation.
+3. Python.
+4. Google colab.
+
+Process:
+1. Research on this topic properly.
+2. Use WIKIPEDIA raw data for training or from [here](https://www.clips.uantwerpen.be/conll2003/ner/) or from [this repo](https://github.com/kyzhouhzau/BERT-NER/tree/master/data)
+3. Build and train your model.
+4. Test and predict yor result.
+5. Submit your file for verification on mail.
+
+Submission:
+1. Submit CSV file on your data with prediction in following column format:
+SENTENCE|ENTITYNAME|ENTITYTYPE|CONFIDENCE
+
+Example:
+SENTENCE                            |ENTITYNAME       |ENTITYTYPE|CONFIDENCE
+FONTERRA LIMITED is from Australia  |FONTERRA LIMITED |ORG       |0.93
+FONTERRA LIMITED is from Australia  |AUSTRALIA        |LOC       |0.95
+
+2. Object Detection using Tensorflow:
+
 
 _ML hints for your ideas and motivation:_
 
