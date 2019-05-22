@@ -1,76 +1,15 @@
 # Persistent Systems internship program - 2019
 -----
 
-## Problem Statement 1:
-### Natural Language Processing for Named Entity Recognition (NLP for NER):
-Idetitifying and recognising named entity from raw sentence or text is a complex NLP task in machine learning and text engineering. It requires cleaning, data pre-processing, feature engineering, CNN and Kmeans for structing unstructured raw data and many other complex task. 
-
-Identify and predict entities like ORG[Organisation names], LOC[Locations], PER[Person name] and IFSC code[Optional] from given raw data. Most of the companies are working on similar task for text engineering and NER for such complex use cases. This will gives you hands-on experience on NLP and text engineering:
-
-Techinolgies:
-
-1. Can use [spaCy](https://spacy.io) or [BERT](https://github.com/google-research/bert).
-2. [spaCy](https://spacy.io) is recommended as it has good accuracy and proper documentation.
-3. Python.
-4. Google colab.
-
-Process:
-
-1. Research on this topic properly.
-2. Use WIKIPEDIA raw data for training or from [here](https://www.clips.uantwerpen.be/conll2003/ner/) or from [this repo](https://github.com/kyzhouhzau/BERT-NER/tree/master/data)
-3. Build and train your model.
-4. Test and predict yor result.
-5. Submit your file for verification on mail.
-
-Submission:
-
-Submit CSV file on your data with prediction in following column format:
-_SENTENCE|ENTITYNAME|ENTITYTYPE|CONFIDENCE_
-
-Example:
-
-SENTENCE                            |ENTITYNAME       |ENTITYTYPE|CONFIDENCE
-FONTERRA LIMITED is from Australia  |FONTERRA LIMITED |ORG       |0.93
-FONTERRA LIMITED is from Australia  |AUSTRALIA        |LOC       |0.95
+## Process:
+1. Choose your problem statement accordingly.
+2. Research and check your feasibility for implementation.
+3. Prepare submission accordingly.
+4. Create issues at this repo for any of your doubts and concerns.
+5. Mentor will reply on your doubts as raised in this repo only.
 
 
-References:
-1. [spaCy](https://spacy.io)
-2. [spaCy Learning](https://spacy.io/usage/linguistic-features)
-3. [BERT](https://github.com/google-research/bert)
-4. [BERT example repo with TF](https://github.com/kyzhouhzau/BERT-NER)
-
-## Problem Statement 2:
-### Object Detection using Tensorflow:
-Object detection using Machine Learning and Deep learning is tredind topic now days. Using Tensorflow, YOLO, scikit learn we can easily detect any object from given image, video or live stream.
-
-Train a model to detect and classify object like 'Helmet' from image, video and live stream with its confidence value. Detecting Helmet will be useful use-case for traffic police, roas safety and at other manufacturing companies where helmets are compulsary for workers.
-Accurately automating this process using AI/ML will reduce human efforts, human accidents/casualties.
-
-Techinolgies:
-1. Tensorflow Object detection.
-2. OpenCV.
-3. Python.
-4. Google colab.
-
-Process:
-1. Research this topic properly.
-2. Collect required images from google, cellphone or from kaggle.
-3. Build, train and test your model at colab with GPU.
-4. Shoot and upload real time demo video at YouTube.
-
-Submission:
-1. Your youtube video link for demo video.
-
-References:
-1. [TensorFlow](https://www.tensorflow.org/)
-2. [Card detection Video](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
-3. [Card detection repo](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
-4. [Tensorflow for Poets - Model generation](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#0)
-5. [Tensorflow for Poets - TFlite convert and prediction on Android devices](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/#0)
-6. [My youtube Demo for Cotton-aphid prediction](https://www.youtube.com/watch?v=owTYf5SyRhE) 
-
-_ML hints for your ideas and motivation:_
+## _ML hints for your ideas and motivation:_
 
 ## A. Object detection:
 1. [Creating TFRecords - TensorFlow Object Detection API Tutorial 4-6](https://www.youtube.com/watch?v=kq2Gjv_pPe8)
