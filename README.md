@@ -3,9 +3,9 @@
 
 ## Problem Statement 1:
 ### Natural Language Processing for Named Entity Recognition (NLP for NER):
-Idetitifying recognising named entity from raw sentence or text is complex NLP task in machine learning and text engineering. It requires cleaning, data pre-processing, feature engineering, CNN and Kmeans for structing unstructured raw data. 
+Idetitifying and recognising named entity from raw sentence or text is a complex NLP task in machine learning and text engineering. It requires cleaning, data pre-processing, feature engineering, CNN and Kmeans for structing unstructured raw data and many other complex task. 
 
-Identify and predict entities like ORG[Organisation names], LOC[Locations], PER[Person name] and IFSC code[Optional] from given raw data. Most of the companies are working on similar task for text engineering and NER for complex use cases. This will give you hands-on experience on NLP and text engineering:
+Identify and predict entities like ORG[Organisation names], LOC[Locations], PER[Person name] and IFSC code[Optional] from given raw data. Most of the companies are working on similar task for text engineering and NER for such complex use cases. This will gives you hands-on experience on NLP and text engineering:
 
 Techinolgies:
 
@@ -25,7 +25,7 @@ Process:
 Submission:
 
 Submit CSV file on your data with prediction in following column format:
-SENTENCE|ENTITYNAME|ENTITYTYPE|CONFIDENCE
+_SENTENCE|ENTITYNAME|ENTITYTYPE|CONFIDENCE_
 
 Example:
 
